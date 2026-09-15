@@ -1,4 +1,4 @@
-# 0910 - 중첩 Dictionary, 제어문, FastAPI와 Streamlit 통신, 챗봇
+# 0910 - 중첩 Dictionary, 제어문, FastAPI와 Streamlit 통신
 
 ## 1. 학습 내용
 
