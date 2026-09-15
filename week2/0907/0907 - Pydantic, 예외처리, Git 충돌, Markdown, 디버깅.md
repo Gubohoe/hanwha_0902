@@ -1,4 +1,4 @@
-# 0905 - Pydantic, 예외처리, Git 충돌, Markdown, 디버깅
+# 0907 - Pydantic, 예외처리, Git 충돌, Markdown, 디버깅
 
 ## 1. 학습 내용
 
